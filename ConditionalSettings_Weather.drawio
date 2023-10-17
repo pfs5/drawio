@@ -1,0 +1,193 @@
+<mxfile host="app.diagrams.net" modified="2023-10-17T07:55:14.974Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="iFEdHUuukwtZTMFyCkyf" version="22.0.4" type="github">
+  <diagram name="Page-1" id="9FNn6xpE97JYxQRe7Gc6">
+    <mxGraphModel dx="1195" dy="633" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="iK2heQf5kK_2tH1jSV0w-12" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="130" width="320" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="iK2heQf5kK_2tH1jSV0w-13" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="160" y="160" width="270" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="iK2heQf5kK_2tH1jSV0w-14" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="200" y="190" width="220" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="iK2heQf5kK_2tH1jSV0w-1" value="Conditional settings" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="110" width="170" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="iK2heQf5kK_2tH1jSV0w-2" value="ForecastData #1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="160" y="140" width="170" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="iK2heQf5kK_2tH1jSV0w-3" value="ForecastData #2" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="160" y="360" width="170" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="iK2heQf5kK_2tH1jSV0w-4" value="..." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="160" y="420" width="170" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="iK2heQf5kK_2tH1jSV0w-5" value="ForecastGroup" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="200" y="170" width="170" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="iK2heQf5kK_2tH1jSV0w-6" value="Should force first" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="280" width="170" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="iK2heQf5kK_2tH1jSV0w-7" value="Weight" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="300" width="170" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="iK2heQf5kK_2tH1jSV0w-8" value="Duration seconds" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="320" width="170" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="iK2heQf5kK_2tH1jSV0w-9" value="ForecastData #3" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="160" y="390" width="170" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="iK2heQf5kK_2tH1jSV0w-10" value="Forecast #1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="240" y="200" width="170" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="iK2heQf5kK_2tH1jSV0w-11" value="Forecast #2" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="240" y="220" width="170" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="iK2heQf5kK_2tH1jSV0w-17" value="..." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="240" y="240" width="170" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="iK2heQf5kK_2tH1jSV0w-18" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="540" width="330" height="460" as="geometry" />
+        </mxCell>
+        <mxCell id="iK2heQf5kK_2tH1jSV0w-19" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="160" y="630" width="280" height="145" as="geometry" />
+        </mxCell>
+        <mxCell id="iK2heQf5kK_2tH1jSV0w-20" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="200" y="660" width="230" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iK2heQf5kK_2tH1jSV0w-21" value="Conditional settings - Default" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingLeft=5;" vertex="1" parent="1">
+          <mxGeometry x="120" y="520" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="iK2heQf5kK_2tH1jSV0w-22" value="[0] ForecastData - Clear" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacingLeft=5;" vertex="1" parent="1">
+          <mxGeometry x="160" y="610" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="iK2heQf5kK_2tH1jSV0w-25" value="PAF_ForecastGroup_Clear" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=left;spacingLeft=5;" vertex="1" parent="1">
+          <mxGeometry x="200" y="640" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="iK2heQf5kK_2tH1jSV0w-26" value="Should force first = &lt;b&gt;true&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingLeft=5;" vertex="1" parent="1">
+          <mxGeometry x="200" y="705" width="170" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="iK2heQf5kK_2tH1jSV0w-27" value="Weight = &lt;b&gt;1.0&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingLeft=5;" vertex="1" parent="1">
+          <mxGeometry x="200" y="725" width="170" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="iK2heQf5kK_2tH1jSV0w-28" value="Duration seconds = &lt;b&gt;180s&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingLeft=5;" vertex="1" parent="1">
+          <mxGeometry x="200" y="745" width="170" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="iK2heQf5kK_2tH1jSV0w-30" value="PAF_Forecast_Clear_BigTest" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;align=left;spacingLeft=5;" vertex="1" parent="1">
+          <mxGeometry x="240" y="670" width="180" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="iK2heQf5kK_2tH1jSV0w-33" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="160" y="810" width="280" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="iK2heQf5kK_2tH1jSV0w-34" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="200" y="840" width="230" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="iK2heQf5kK_2tH1jSV0w-35" value="[1] ForecastData - Precipitation" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacingLeft=5;" vertex="1" parent="1">
+          <mxGeometry x="160" y="790" width="180" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="iK2heQf5kK_2tH1jSV0w-36" value="PAF_ForecastGroup_Clear" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=left;spacingLeft=5;" vertex="1" parent="1">
+          <mxGeometry x="200" y="820" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="iK2heQf5kK_2tH1jSV0w-37" value="Should force first = &lt;b&gt;false&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingLeft=5;" vertex="1" parent="1">
+          <mxGeometry x="200" y="920" width="170" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="iK2heQf5kK_2tH1jSV0w-38" value="Weight = &lt;b&gt;1.0&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingLeft=5;" vertex="1" parent="1">
+          <mxGeometry x="200" y="940" width="170" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="iK2heQf5kK_2tH1jSV0w-39" value="Duration seconds = &lt;b&gt;180s&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingLeft=5;" vertex="1" parent="1">
+          <mxGeometry x="200" y="960" width="170" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="iK2heQf5kK_2tH1jSV0w-40" value="PAF_Forecast_Snowy_BigTest" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;align=left;spacingLeft=5;" vertex="1" parent="1">
+          <mxGeometry x="240" y="850" width="180" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="iK2heQf5kK_2tH1jSV0w-42" value="PAF_Forecast_Stormy_BigTest" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;align=left;spacingLeft=5;" vertex="1" parent="1">
+          <mxGeometry x="240" y="880" width="180" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="iK2heQf5kK_2tH1jSV0w-60" value="Tag = &lt;b&gt;null&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;align=left;spacingLeft=5;" vertex="1" parent="1">
+          <mxGeometry x="160" y="550" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="iK2heQf5kK_2tH1jSV0w-62" value="Default = &lt;b&gt;true&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;align=left;spacingLeft=5;" vertex="1" parent="1">
+          <mxGeometry x="160" y="580" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="iK2heQf5kK_2tH1jSV0w-63" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="540" width="330" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="iK2heQf5kK_2tH1jSV0w-64" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="520" y="630" width="280" height="145" as="geometry" />
+        </mxCell>
+        <mxCell id="iK2heQf5kK_2tH1jSV0w-65" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="560" y="660" width="230" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iK2heQf5kK_2tH1jSV0w-66" value="Conditional settings - Clear" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingLeft=5;" vertex="1" parent="1">
+          <mxGeometry x="480" y="520" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="iK2heQf5kK_2tH1jSV0w-67" value="[0] ForecastData - Clear" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacingLeft=5;" vertex="1" parent="1">
+          <mxGeometry x="520" y="610" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="iK2heQf5kK_2tH1jSV0w-68" value="PAF_ForecastGroup_Clear" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=left;spacingLeft=5;" vertex="1" parent="1">
+          <mxGeometry x="560" y="640" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="iK2heQf5kK_2tH1jSV0w-69" value="Should force first = &lt;b&gt;true&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingLeft=5;" vertex="1" parent="1">
+          <mxGeometry x="560" y="705" width="170" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="iK2heQf5kK_2tH1jSV0w-70" value="Weight = &lt;b&gt;1.0&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingLeft=5;" vertex="1" parent="1">
+          <mxGeometry x="560" y="725" width="170" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="iK2heQf5kK_2tH1jSV0w-71" value="Duration seconds = &lt;b&gt;180s&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingLeft=5;" vertex="1" parent="1">
+          <mxGeometry x="560" y="745" width="170" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="iK2heQf5kK_2tH1jSV0w-72" value="PAF_Forecast_Clear_BigTest" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;align=left;spacingLeft=5;" vertex="1" parent="1">
+          <mxGeometry x="600" y="670" width="180" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="iK2heQf5kK_2tH1jSV0w-82" value="Tag = &lt;b&gt;ForecastTag_Clear&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;align=left;spacingLeft=5;" vertex="1" parent="1">
+          <mxGeometry x="520" y="550" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="iK2heQf5kK_2tH1jSV0w-83" value="Default = &lt;b&gt;false&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;align=left;spacingLeft=5;" vertex="1" parent="1">
+          <mxGeometry x="520" y="580" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="iK2heQf5kK_2tH1jSV0w-84" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="830" width="330" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="iK2heQf5kK_2tH1jSV0w-85" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="520" y="920" width="280" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="iK2heQf5kK_2tH1jSV0w-86" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="560" y="950" width="230" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="iK2heQf5kK_2tH1jSV0w-87" value="Conditional settings - Precipitation" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingLeft=5;" vertex="1" parent="1">
+          <mxGeometry x="480" y="810" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="iK2heQf5kK_2tH1jSV0w-88" value="[0] ForecastData - Clear" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacingLeft=5;" vertex="1" parent="1">
+          <mxGeometry x="520" y="900" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="iK2heQf5kK_2tH1jSV0w-89" value="PAF_ForecastGroup_Clear" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=left;spacingLeft=5;" vertex="1" parent="1">
+          <mxGeometry x="560" y="930" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="iK2heQf5kK_2tH1jSV0w-90" value="Should force first = &lt;b&gt;true&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingLeft=5;" vertex="1" parent="1">
+          <mxGeometry x="560" y="1030" width="170" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="iK2heQf5kK_2tH1jSV0w-91" value="Weight = &lt;b&gt;1.0&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingLeft=5;" vertex="1" parent="1">
+          <mxGeometry x="560" y="1050" width="170" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="iK2heQf5kK_2tH1jSV0w-92" value="Duration seconds = &lt;b&gt;180s&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingLeft=5;" vertex="1" parent="1">
+          <mxGeometry x="560" y="1070" width="170" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="iK2heQf5kK_2tH1jSV0w-93" value="PAF_Forecast_Clear_BigTest" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;align=left;spacingLeft=5;" vertex="1" parent="1">
+          <mxGeometry x="600" y="960" width="180" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="iK2heQf5kK_2tH1jSV0w-94" value="Tag = &lt;b&gt;ForecastTag_Stormy&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;align=left;spacingLeft=5;" vertex="1" parent="1">
+          <mxGeometry x="520" y="840" width="170" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="iK2heQf5kK_2tH1jSV0w-95" value="Default = &lt;b&gt;false&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;align=left;spacingLeft=5;" vertex="1" parent="1">
+          <mxGeometry x="520" y="870" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="iK2heQf5kK_2tH1jSV0w-96" value="PAF_Forecast_Stormy_BigTest" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;align=left;spacingLeft=5;" vertex="1" parent="1">
+          <mxGeometry x="600" y="990" width="180" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
